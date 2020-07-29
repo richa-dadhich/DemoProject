@@ -17,4 +17,14 @@ public class RestAPI {
 		System.out.println("DeleteTwitter");	
 		
 	}
+	@Test
+	public void IOS() {
+		System.out.println("IOS");
+	}
+	
+	public void DeleteTwitter23() {
+		
+		System.out.println("DeleteTwitter");	
+		
+	}
 }
